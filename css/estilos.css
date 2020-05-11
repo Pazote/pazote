@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://images2.alphacoders.com/683/683702.jpg");
+    background-size:auto 100vh;
+    font-family: arial 
+  }
+  .menu{
+    background-color:#FFC0CB;
+  }
+  .menu li{
+    list-style:none;
+  }
+  .menu ul{
+    display:flex;
+    justify-content: space-around;
+  }
+  .a{
+    text-decoration:underline;
+  }
+  .subtitle,
+  .classtitle{
+    color:#A020F0;
+    text-align:center; 
+    background-color:white;
+  }
+  .subtitle{
+    font-style:italic;
+  }
